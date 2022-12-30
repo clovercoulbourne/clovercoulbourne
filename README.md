@@ -1,5 +1,5 @@
 🍀 hey there, i’m clover! <br />
-🍄 my pronouns are it/its, they/them, and he/him! <br />
+🍄 my pronouns are it/its and they/them! <br />
 🐛 talk to me about neural networks, neurophysics, math, space, entomology, and linguistics! <br />
 🐸 i'm learning unity and animation! <br />
 🌱 i'm currently working on GECM and poembot.jpg! <br />
